@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">MasterGroceryList</string>
+
+    <string name="add_item">Add Item</string>
+    <string name="edit_master_list">Edit Master List</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="actions">Actions</string>
+    <string name="current_list">Current List</string>
+    <string name="new_item">New Item</string>
+    <string name="enter_the_name_of_a_new_item">Enter the name of a new item.</string>
+    <string name="add">Add</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_item">Edit Item</string>
+    <string name="enter_the_new_name_of_item">Enter the new name of item.</string>
+    <string name="pick_quantity">Pick Quantity…</string>
+    <string name="ok">OK</string>
+    <string name="temporary_item">Temporary Item</string>
+    <string name="add_temporary_item">Add Temporary Item</string>
+    <string name="temporary_item_desc">Add a temporary item to the main list but not the master list.</string>
+    <string name="quantity_item_desc">Pick the quantity of %1$s to add to the list.</string>
+    <string name="add_items">Add Items…</string>
+    <string name="delete_current_list">Delete Current List…</string>
+    <string name="delete_list_desc">Are you sure you want to delete all items in your current list?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>
